@@ -1,0 +1,415 @@
+{
+    "assets": {
+        "minecraft": {
+            "mcpatcher": {
+                "ctm": "delete",
+                "mob": "delete",
+                "cit": {
+                    "equipment": {
+                        "armor": {
+                            "adaptive_armor": "delete",
+                            "angler_armor": "delete",
+                            "arachne_armor": "delete",
+                            "armor_of_growth": "delete",
+                            "armor_of_magma": "delete",
+                            "armor_of_the_pack": "delete",
+                            "armor_of_the_rising_sun": "delete",
+                            "armor_of_yog": "delete",
+                            "berserker_armor": "delete",
+                            "blaze_armor": "delete",
+                            "bouncy_armor": "delete",
+                            "cactus_armor": "delete",
+                            "cheap_tuxedo": "delete",
+                            "crystal_armor": "delete",
+                            "ember_ash_armor": "delete",
+                            "emerald_armor": "delete",
+                            "fancy_tuxedo": "delete",
+                            "fervor_armor": "delete",
+                            "flamebreaker_armor": "delete",
+                            "ghostly_boots": "delete",
+                            "golem_armor": "delete",
+                            "great_spook_armor": "delete",
+                            "hardened_diamond_armor": "delete",
+                            "heat_armor": "delete",
+                            "heavy_armor": "delete",
+                            "holy_dragon_armor": "delete",
+                            "lapis_armor": "delete",
+                            "leaflet_armor": "delete",
+                            "mercenary_armor": "delete",
+                            "metal_chestplate": "delete",
+                            "miner_armor": "delete",
+                            "miner_outfit": "delete",
+                            "monster_hunter_armor": "delete",
+                            "mushroom_armor": "delete",
+                            "necromancer_lord_armor": "delete",
+                            "obsidian_chestplate": "delete",
+                            "old_dragon_armor": "delete",
+                            "party_hat": "delete",
+                            "protector_dragon_armor": "delete",
+                            "pumpkin_armor": "delete",
+                            "rampart_armor": "delete",
+                            "revenant_armor": "delete",
+                            "rosetta_armor": "delete",
+                            "rotten_armor": "delete",
+                            "shimmering_light_armor": "delete",
+                            "skeleton_grunt_armor": "delete",
+                            "skeleton_lord_armor": "delete",
+                            "skeleton_soldier_armor": "delete",
+                            "skeletor_armor": "delete",
+                            "sniper_helmet": "delete",
+                            "snorkeling_armor": "delete",
+                            "speedster_armor": "delete",
+                            "spirit_boots": "delete",
+                            "spooky_armor": "delete",
+                            "squire_armor": "delete",
+                            "starlight_armor": "delete",
+                            "steel_chestplate": "delete",
+                            "stone_chestplate": "delete",
+                            "super_heavy_armor": "delete",
+                            "wither_armor": "delete",
+                            "zombie_armor": "delete",
+                            "zombie_commander_armor": "delete",
+                            "zombie_lord_armor": "delete",
+                            "zombie_soldier_armor": "delete"
+                        }
+                    },
+                    "item": {
+                        "accessories": [
+                            "preserve",
+                            {
+                                "personal_compactor_4000": "preserve",
+                                "personal_compactor_5000": "preserve",
+                                "personal_compactor_6000": "preserve",
+                                "personal_compactor_7000": "preserve",
+                                "personal_deletor_4000": "preserve",
+                                "personal_deletor_5000": "preserve",
+                                "personal_deletor_6000": "preserve",
+                                "personal_deletor_7000": "preserve"
+                            }
+                        ],
+                        "pets": "delete",
+                        "tools": {
+                            "axes": [
+                                "preserve",
+                                {
+                                    "advanced_garden_axe": "preserve",
+                                    "basic_gardening_axe": "preserve",
+                                    "cocoa_chopper": "preserve",
+                                    "fig_hew": "preserve",
+                                    "fig_splitter": "preserve",
+                                    "melon_dicer": "preserve",
+                                    "melon_dicer_v2": "preserve",
+                                    "melon_dicer_v3": "preserve",
+                                    "pumpkin_dicer": "preserve",
+                                    "pumpkin_dicer_v2": "preserve",
+                                    "pumpkin_dicer_v3": "preserve",
+                                    "treecapitator": "preserve"
+                                }
+                            ],
+                            "biome_sticks": "delete",
+                            "drills": [
+                                "preserve",
+                                {
+                                    "divan_drill": "preserve",
+                                    "jasper_drill_x": "preserve",
+                                    "titanium_drill_dr_x655": "preserve",
+                                    "mithril_drill_sx_326": "preserve"
+                                }
+                            ],
+                            "fishing_rods": [
+                                "preserve",
+                                {
+                                    "challenging_rod": "preserve",
+                                    "giant_fishing_rod": "preserve",
+                                    "hellfire_rod": "preserve",
+                                    "inferno_rod": "preserve",
+                                    "magma_rod": "preserve",
+                                    "polished_topaz_rod": "preserve",
+                                    "rod_of_champions": "preserve",
+                                    "rod_of_legends": "preserve",
+                                    "rod_of_the_sea": "preserve",
+                                    "starter_lava_rod": "preserve"
+                                }
+                            ],
+                            "hoes": {
+                                "mathematical_hoe_blueprint": "delete"
+                            },
+                            "pickaxes": [
+                                "preserve",
+                                {
+                                    "jungle_pickaxe": "preserve",
+                                    "bandaged_mithril_pickaxe": "preserve",
+                                    "fractured_mithril_pickaxe": "preserve",
+                                    "mithril_pickaxe": "preserve",
+                                    "refined_mithril_pickaxe": "preserve",
+                                    "titanium_pickaxe": "preserve",
+                                    "refined_titanium_pickaxe": "preserve",
+                                    "pioneer_pickaxe": "preserve"
+                                }
+                            ],
+                            "shovels": {
+                                "promising_shovel": "delete",
+                                "snow_shovel": "delete"
+                            }
+                        },
+                        "weapons": {
+                            "dungeons": {
+                                "melee": [
+                                    "preserve",
+                                    {
+                                        "astraea": "preserve",
+                                        "dark_claymore": "preserve",
+                                        "dreadlord_sword": "preserve",
+                                        "felthorn_reaper": "preserve",
+                                        "florid_zombie_sword": "preserve",
+                                        "giant_sword": "preserve",
+                                        "hyper_cleaver": "preserve",
+                                        "hyperion": "preserve",
+                                        "livid_dagger": "preserve",
+                                        "necromancer_sword": "preserve",
+                                        "scylla": "preserve",
+                                        "shadow_fury": "preserve",
+                                        "valkyrie": "preserve",
+                                        "wither_cloak_sword": "preserve"
+                                    }
+                                ],
+                                "ranged": [
+                                    "preserve",
+                                    {
+                                        "bonzo_staff": "preserve",
+                                        "boss_spirit_bow": "preserve",
+                                        "bouquet_of_lies": "preserve",
+                                        "flower_of_truth": "preserve",
+                                        "ice_spray_wand": "preserve",
+                                        "last_breath": "preserve",
+                                        "spirit_sceptre": "preserve",
+                                        "spirit_shortbow": "preserve"
+                                    }
+                                ]
+                            },
+                            "normal": {
+                                "melee": [
+                                    "preserve",
+                                    {
+                                        "aspect_of_the_dragons": "preserve",
+                                        "aspect_of_the_end": "preserve",
+                                        "aspect_of_the_void": "preserve",
+                                        "atomsplit_katana": "preserve",
+                                        "blade_of_the_volcano": "preserve",
+                                        "daedalus_axe": "preserve",
+                                        "deathripper_dagger": "preserve",
+                                        "end_stone_sword": "preserve",
+                                        "firedust_dagger": "preserve",
+                                        "ghost_buster": "preserve",
+                                        "halberd_of_the_shredded": "preserve",
+                                        "kindlebane_dagger": "preserve",
+                                        "mawdredge_dagger": "preserve",
+                                        "midas_sword": "preserve",
+                                        "pooch_sword": "preserve",
+                                        "prime_huntaxe": "preserve",
+                                        "pyrochaos_dagger": "preserve",
+                                        "ragnarock": "preserve",
+                                        "reaper_scythe": "preserve",
+                                        "reaper_falchion": "preserve",
+                                        "recluse_fang": "preserve",
+                                        "reinforced_huntaxe": "preserve",
+                                        "revenant_falchion": "preserve",
+                                        "rogue_sword": "preserve",
+                                        "savage_huntaxe": "preserve",
+                                        "scorpion_foil": "preserve",
+                                        "shaman_sword": "preserve",
+                                        "sharpened_huntaxe": "preserve",
+                                        "twilight_dagger": "preserve",
+                                        "voidedge_katana": "preserve",
+                                        "voidwalker_katana": "preserve",
+                                        "vorpal_katana": "preserve",
+                                        "worn_huntaxe": "preserve",
+                                        "yeti_sword": "preserve"
+                                    }
+                                ],
+                                "ranged": [
+                                    "preserve",
+                                    {
+                                        "arrows": "preserve",
+                                        "artisanal_shortbow": "preserve",
+                                        "dragon_shortbow": "preserve",
+                                        "fire_freeze_staff": "preserve",
+                                        "fire_fury_staff": "preserve",
+                                        "fire_veil_wand": "preserve",
+                                        "flaming_flay": "preserve",
+                                        "frozen_scythe": "preserve",
+                                        "glacial_scythe": "preserve",
+                                        "jerry_chine_gun": "preserve",
+                                        "juju_shortbow": "preserve",
+                                        "midas_staff": "preserve",
+                                        "mosquito_bow": "preserve",
+                                        "scorpion_bow": "preserve",
+                                        "soul_whip": "preserve",
+                                        "staff_of_the_volcano": "preserve",
+                                        "terminator": "preserve",
+                                        "tribal_spear": "preserve"
+                                    }
+                                ]
+                            }
+                        },
+                        "other": [
+                            "preserve",
+                            {
+                                "crimson_isle": [
+                                    "preserve",
+                                    {
+                                        "abiphone": "preserve",
+                                        "kuudra_keys": "preserve"
+                                    }
+                                ],
+                                "dungeons": [
+                                    "preserve",
+                                    {
+                                        "architect_first_draft": "preserve",
+                                        "decoy": "preserve",
+                                        "diamante_handle": "preserve",
+                                        "dungeon_chest_key": "preserve",
+                                        "dungeon_orb": "preserve",
+                                        "fuming_potato_book": "preserve",
+                                        "hot_potato_book": "preserve",
+                                        "implosion": "preserve",
+                                        "infinileap": "preserve",
+                                        "magical_map": "preserve",
+                                        "master_stars": "preserve",
+                                        "necron_handle": "preserve",
+                                        "recombobulator_3000": "preserve",
+                                        "revive_stone": "preserve",
+                                        "shadow_warp": "preserve",
+                                        "spirit_leap": "preserve",
+                                        "summoning_ring": "preserve",
+                                        "superboom_tnt": "preserve",
+                                        "wither_shield": "preserve"
+                                    }
+                                ],
+                                "experience_bottles": "preserve",
+                                "farming": [
+                                    "preserve",
+                                    {
+                                        "basket_of_seeds": "preserve",
+                                        "jacob_ticket": "preserve"
+                                    }
+                                ],
+                                "fishing": [
+                                    "preserve",
+                                    {
+                                        "great_white_shark_tooth": "preserve",
+                                        "hurricane_bottle": "preserve",
+                                        "storm_bottle": "preserve",
+                                        "thunder_bottle": "preserve"
+                                    }
+                                ],
+                                "foraging": [
+                                    "preserve",
+                                    {
+                                        "agatha_coupon": "preserve"
+                                    }
+                                ],
+                                "mining": [
+                                    "preserve",
+                                    {
+                                        "ascension_rope": "preserve",
+                                        "bob_omb": "preserve",
+                                        "divan_alloyed": "preserve",
+                                        "divan_fragment": "preserve",
+                                        "jungle_key": "preserve",
+                                        "royal_pigeon": "preserve",
+                                        "scavenged_diamond_axe": "preserve",
+                                        "scavenged_emerald_hammer": "preserve",
+                                        "scavenged_golden_hammer": "preserve",
+                                        "scavenged_lapis_sword": "preserve",
+                                        "shattered_locket": "preserve",
+                                        "skeleton_key": "preserve",
+                                        "tungsten_key": "preserve",
+                                        "umber_key": "preserve"
+                                    }
+                                ],
+                                "season_of_jerry": [
+                                    "preserve",
+                                    {
+                                        "jingle_bells": "preserve"
+                                    }
+                                ],
+                                "slayers": [
+                                    "preserve",
+                                    {
+                                        "alert_flare": "preserve",
+                                        "etherwarp_conduit": "preserve",
+                                        "gyrokinetic_wand": "preserve",
+                                        "judgement_core": "preserve",
+                                        "sos_flare": "preserve",
+                                        "soul_esoward": "preserve",
+                                        "tactical_insertion": "preserve",
+                                        "toxic_arrow_poison": "preserve",
+                                        "twilight_arrow_poison": "preserve",
+                                        "voodoo_doll": "preserve",
+                                        "warden_heart": "preserve",
+                                        "warning_flare": "preserve"
+                                    }
+                                ],
+                                "rift": "preserve",
+                                "utility": {
+                                    "spray_can": "delete",
+                                    "tuning_fork": "delete",
+                                    "weather_node": "delete",
+                                    "weather_stick": "delete"
+                                }
+                            }
+                        ]
+                    },
+                    "ui": "delete",
+                    "exclusives": "delete"
+                }
+            },
+            "texts": {
+                "end.txt": "delete",
+                "splashes.txt": "delete"
+            }
+        },
+        "notenoughupdates": {
+            "custom_skull_textures": {
+                "items": [
+                    "preserve",
+                    {
+                        "divan_alloy": "preserve",
+                        "quick_claw": "preserve"
+                    }
+                ],
+                "pets": "delete",
+                "helmets": [
+                    "delete",
+                    {
+                        "arachne_helmet.png": "delete",
+                        "berserker_helmet.png": "delete",
+                        "happy_mask.png": "delete",
+                        "helmet_of_the_rising_sun.png": "delete",
+                        "holy_dragon_helmet.png": "delete",
+                        "kalhuiki_mask": "delete",
+                        "krampus_helmet": "delete",
+                        "lantern_helmet": "delete",
+                        "leaf_skin": "delete",
+                        "necron_helmet_dungeon.json": "delete",
+                        "necron_helmet_dungeon.png": "delete",
+                        "necron_helmet.jsn": "delete",
+                        "necron_helmet.png": "delete",
+                        "old_dragon_helmet.png": "delete",
+                        "protector_dragon_helmet.png": "delete",
+                        "rampart_helmet.png": "delete",
+                        "reinforced_skin.png": "delete",
+                        "rekindled_ember_helmet.png": "delete",
+                        "shimmering_light_hood.png": "delete",
+                        "sniper_helmet.png": "delete",
+                        "snorkeling_helmet.png": "delete",
+                        "taurus_helmet.png": "delete",
+                        "wet_pumpkin.png": "delete",
+                        "divan_helmet.json": "delete"
+                    }
+                ]
+            }
+        }
+    }
+}
