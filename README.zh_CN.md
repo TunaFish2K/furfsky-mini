@@ -1,6 +1,8 @@
-# 精简Furfsky Reborn并替换了部分更好看的旧版材质
+# Furfsky Mini
+中文版 | [English](README.md)  
+一个最小化的Furfsky Reborn版本，  
+同时替换了一些好看的旧版材质。  
 
-中文版 | [English](README.md)
 ## 生成
 通过对Furfsky Reborn原版进行即时修改生成本材质包。  
 将原版(Overlay版本)解压，记下文件夹位置(该位置下有`pack.mcmeta`文件)。  
